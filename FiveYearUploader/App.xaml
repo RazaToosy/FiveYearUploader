@@ -1,8 +1,8 @@
-﻿<Application x:Class="TwoYearUploader.App"
+﻿<Application x:Class="FiveYearUploader.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:TwoYearUploader"
-             StartupUri="MainWindow.xaml">
+             xmlns:local="clr-namespace:FiveYearUploader"
+             StartupUri="UI/MainWindow.xaml">
     <Application.Resources>
          
     </Application.Resources>
